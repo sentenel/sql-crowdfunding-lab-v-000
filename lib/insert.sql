@@ -11,7 +11,7 @@ INSERT INTO users (name, age) VALUES
 (NULL, NULL), (NULL, NULL), (NULL, NULL), (NULL, NULL), (NULL, NULL),
 (NULL, NULL), (NULL, NULL), (NULL, NULL), (NULL, NULL), (NULL, NULL);
 
-INSERT INTO pledges (amount, user_id, product_id) VALUES
+INSERT INTO pledges (amount, user_id, project_id) VALUES
 (NULL, NULL, NULL), (NULL, NULL, NULL), (NULL, NULL, NULL),
 (NULL, NULL, NULL), (NULL, NULL, NULL), (NULL, NULL, NULL),
 (NULL, NULL, NULL), (NULL, NULL, NULL), (NULL, NULL, NULL),
